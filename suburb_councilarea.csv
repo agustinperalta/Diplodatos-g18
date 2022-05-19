@@ -1,0 +1,524 @@
+suburb,council_area,frequency,frequency_order
+abbotsford,yarra,257,1
+"abbotsford, melbourne",yarra,1,1
+aberfeldie,moonee valley,4,1
+airport west,moonee valley,22,1
+albanvale,brimbank,1,1
+albert park,port phillip,70,1
+albert park. melbourne,port phillip,1,1
+albion,brimbank,4,1
+alphington,darebin,21,1
+altona,hobsons bay,32,1
+altona meadows,hobsons bay,19,1
+altona north,hobsons bay,17,1
+armadale,stonnington,67,1
+armadale north,stonnington,2,1
+ascot vale,moonee valley,80,1
+ashburton,boroondara,16,1
+ashwood,monash,13,1
+aspendale,kingston,18,1
+aspendale gardens,kingston,1,1
+attwood,hume,1,1
+avondale heights,moonee valley,4,1
+badger creek,yarra ranges,19,1
+balaclava,port phillip,102,1
+balwyn,boroondara,57,1
+balwyn north,boroondara,41,1
+bangholme,greater dandenong,1,1
+bayles,cardinia,1,1
+bayswater,knox,12,1
+bayswater north,maroondah,4,1
+beaconsfield,cardinia,3,1
+beaconsfield upper,cardinia,3,1
+beaumaris,bayside,22,1
+belgrave,yarra ranges,19,1
+belgrave heights,yarra ranges,6,1
+bellfield,banyule,2,1
+bentleigh,glen eira,38,1
+bentleigh east,glen eira,51,1
+berwick,casey,31,1
+beveridge,whittlesea,1,1
+big pats creek,yarra ranges,1,1
+black rock,bayside,20,1
+blackburn,whitehorse,39,1
+blackburn north,whitehorse,8,1
+blackburn south,whitehorse,12,1
+bonbeach,kingston,22,1
+boronia,knox,21,1
+botanic ridge,casey,1,1
+box hill,whitehorse,182,1
+box hill north,whitehorse,82,1
+box hill south,whitehorse,33,1
+braybrook,maribyrnong,17,1
+briar hill,banyule,1,1
+brighton,bayside,122,1
+brighton east,bayside,43,1
+"brighton east, melbourne",bayside,4,1
+brimbank city,brimbank,1,1
+brisbane,hume,1,1
+broadmeadows,hume,15,1
+brookfield,melton,2,1
+brooklyn,hobsons bay,2,1
+brunswick,moreland,435,1
+brunswick / melbourne,moreland,1,1
+brunswick east,moreland,171,1
+"brunswick east, melbourne",moreland,1,1
+brunswick vic 3056,moreland,1,1
+brunswick west,moreland,81,1
+"brunswick west, melbourne",moreland,1,1
+bulla,hume,4,1
+bulleen,manningham,21,1
+bundoora,whittlesea,36,1
+bunyip,cardinia,2,1
+burnley,yarra,11,1
+burnside,melton,1,1
+burnside heights,melton,1,1
+burwood,whitehorse,52,1
+burwood east,whitehorse,27,1
+cairnlea,brimbank,4,1
+camberwell,boroondara,86,1
+canterbury,boroondara,20,1
+cardinia,cardinia,1,1
+cardinia shire,cardinia,1,1
+carlton,melbourne,531,1
+carlton north,yarra,103,1
+carlton south,melbourne,1,1
+"carlton, melbourne",melbourne,1,1
+carnegie,glen eira,83,1
+caroline springs,melton,24,1
+carrum,kingston,13,1
+carrum downs,frankston,5,1
+caulfield,glen eira,27,1
+caulfield east,glen eira,9,1
+caulfield north,glen eira,114,1
+caulfield south,glen eira,52,1
+chadstone,monash,24,1
+chelsea,kingston,19,1
+chelsea heights,kingston,4,1
+cheltenham,kingston,50,1
+chirnside park,yarra ranges,11,1
+christmas hills,nillumbik,4,1
+chum creek,yarra ranges,13,1
+chum creek/healesville,yarra ranges,1,1
+city of port phillip,port phillip,1,1
+clarinda,kingston,5,1
+clayton,monash,108,1
+clayton south,kingston,21,1
+clematis,cardinia,1,1
+clifton hill,yarra,65,1
+clyde north,casey,6,1
+coburg,moreland,108,1
+coburg (melbourne),moreland,1,1
+coburg north,moreland,24,1
+cockatoo,cardinia,13,1
+coldstream,yarra ranges,7,1
+collingwood,yarra,295,1
+"collingwood, melbourne",yarra,2,1
+cora lynn,cardinia,2,1
+cottles bridge,nillumbik,2,1
+craigieburn,hume,33,1
+cranbourne,casey,4,1
+cranbourne east,casey,9,1
+cranbourne north,casey,12,1
+cranbourne south,casey,1,1
+cranbourne west,casey,8,1
+cremorne,yarra,44,1
+croydon,maroondah,13,1
+croydon north,maroondah,11,1
+croydon south,maroondah,2,1
+dallas,hume,1,1
+dandenong,greater dandenong,29,1
+dandenong north,greater dandenong,9,1
+dandenong ranges,yarra ranges,7,1
+dandenong south,greater dandenong,2,1
+deer park,brimbank,4,1
+delahey,brimbank,3,1
+derrimut,brimbank,5,1
+diamond creek,nillumbik,6,1
+diggers rest,hume,5,1
+dingley village,kingston,1,1
+dixons creek,yarra ranges,10,1
+dockland,melbourne,1,1
+docklands,melbourne,612,1
+don valley,yarra ranges,3,1
+doncaster,manningham,132,1
+doncaster east,manningham,47,1
+doncaster vic 3108,manningham,1,1
+doncaster，melbourne,manningham,1,1
+donnybrook,whittlesea,1,1
+donvale,manningham,8,1
+doreen,whittlesea,10,1
+doveton,casey,4,1
+eaglemont,banyule,6,1
+east brunswick,moreland,5,1
+east doncaster,manningham,4,1
+east melbourne,melbourne,184,1
+east st kilda,port phillip,1,1
+east st. kilda,port phillip,1,1
+east warburton,yarra ranges,6,1
+eden park,whittlesea,2,1
+edithvale,kingston,14,1
+elsternwick,glen eira,71,1
+eltham,nillumbik,21,1
+eltham north,nillumbik,2,1
+elwood,port phillip,325,1
+"elwood, melbourne",port phillip,3,1
+"elwood, st. kilda",port phillip,3,1
+emerald,cardinia,33,1
+endeavour hills,casey,11,1
+epping,whittlesea,17,1
+essendon,moonee valley,50,1
+essendon north,moonee valley,3,1
+essendon west,moonee valley,2,1
+"essendon, victoria, au",moonee valley,1,1
+eumemmerring,casey,1,1
+eynesbury,melton,4,1
+fairfield,darebin,33,1
+fawkner,moreland,10,1
+ferntree gully,knox,20,1
+ferny creek,yarra ranges,11,1
+fitzroy,yarra,376,1
+fitzroy north,yarra,229,1
+"fitzroy, melbourne",yarra,2,1
+"fitzroy, victoria, au",yarra,1,1
+flemington,moonee valley,63,1
+footscray,maribyrnong,166,1
+forest hill,whitehorse,16,1
+frankston,frankston,66,1
+frankston north,frankston,1,1
+frankston south,frankston,37,1
+gardenvale,glen eira,6,1
+garfield north,cardinia,1,1
+gembrook,cardinia,15,1
+gilderoy,yarra ranges,1,1
+gladstone park,hume,6,1
+gladysdale,yarra ranges,2,1
+glen huntly,glen eira,22,1
+glen iris,stonnington,43,1
+"glen iris, victoria, au",stonnington,1,1
+glen waverley,monash,173,1
+glenroy,moreland,37,1
+gowanbrae,moreland,6,1
+greensborough,banyule,8,1
+greenvale,hume,17,1
+gruyere,yarra ranges,15,1
+guys hill,cardinia,1,1
+hadfield,moreland,8,1
+hallam,casey,6,1
+hampton,bayside,58,1
+hampton east,bayside,14,1
+hampton park,casey,2,1
+harkaway,casey,2,1
+hawthorn,boroondara,181,1
+hawthorn east,boroondara,82,1
+"hawthorn, melbourne",boroondara,2,1
+healesville,yarra ranges,151,1
+heatherton,kingston,14,1
+heathmont,maroondah,4,1
+heidelberg,banyule,46,1
+heidelberg heights,banyule,21,1
+heidelberg west,banyule,13,1
+highett,bayside,25,1
+hillside,melton,4,1
+hoddles creek,yarra ranges,2,1
+holmesglen,monash,1,1
+hoppers crossing,wyndham,22,1
+hughesdale,monash,19,1
+humevale,whittlesea,2,1
+huntingdale,monash,5,1
+hurstbridge,nillumbik,5,1
+iona,cardinia,1,1
+ivanhoe,banyule,34,1
+ivanhoe (melbourne),banyule,1,1
+ivanhoe east,banyule,3,1
+jacana,hume,5,1
+kallista,yarra ranges,12,1
+kalorama,yarra ranges,17,1
+kangaroo ground,nillumbik,15,1
+kealba,brimbank,7,1
+keilor,brimbank,4,1
+keilor downs,brimbank,7,1
+keilor east,moonee valley,13,1
+keilor lodge,brimbank,1,1
+keilor park,brimbank,6,1
+kensington,melbourne,112,1
+kew,boroondara,108,1
+kew east,boroondara,10,1
+"kew east, victoria, au",boroondara,2,1
+keysborough,greater dandenong,41,1
+kilsyth,maroondah,3,1
+kilsyth south,maroondah,3,1
+kinglake west,whittlesea,1,1
+kings park,brimbank,1,1
+kingsbury,darebin,11,1
+kingsville,maribyrnong,10,1
+knoxfield,knox,9,1
+kooyong,stonnington,5,1
+kurunjang,melton,7,1
+lalor,whittlesea,10,1
+langwarrin,frankston,9,1
+langwarrin south,frankston,10,1
+launching place,yarra ranges,8,1
+laverton,hobsons bay,15,1
+lilydale,yarra ranges,20,1
+little river,wyndham,1,1
+lower plenty,banyule,6,1
+lynbrook,casey,1,1
+lyndhurst,casey,4,1
+lysterfield,knox,3,1
+macclesfield,yarra ranges,4,1
+macleod,banyule,4,1
+maidstone,maribyrnong,23,1
+malvern,stonnington,38,1
+malvern east,stonnington,93,1
+"malvern, melbourne",stonnington,1,1
+manningham,manningham,7,1
+manor lakes,wyndham,1,1
+maribyrnong,maribyrnong,57,1
+"maribyrnong, melbourne",maribyrnong,1,1
+mckinnon,glen eira,16,1
+mcmahons creek,yarra ranges,3,1
+meadow heights,hume,3,1
+melborne,melbourne,1,1
+melbourne,melbourne,3852,1
+melbourne (eltham),nillumbik,1,1
+melbourne cbd,melbourne,1,1
+melbourne city,melbourne,3,1
+melbourne vic 3000,melbourne,1,1
+melbourne vic 3004,melbourne,1,1
+melbourne victoria,melbourne,1,1
+"melbourne, victoria, au",boroondara,1,1
+melton south,melton,14,1
+melton south ( strathtulloh),melton,1,1
+melton west,melton,5,1
+mentone,kingston,20,1
+menzies creek,yarra ranges,6,1
+mernda,whittlesea,7,1
+mickleham,hume,3,1
+middle park,port phillip,48,1
+middle park melbourne,port phillip,2,1
+mill park,whittlesea,18,1
+millgrove,yarra ranges,7,1
+mitcham,whitehorse,34,1
+mlebourne,glen eira,1,1
+monbulk,yarra ranges,8,1
+mont albert,whitehorse,25,1
+mont albert north,whitehorse,18,1
+montmorency,banyule,9,1
+montrose,yarra ranges,3,1
+moonee ponds,moonee valley,52,1
+moorabbin,kingston,13,1
+mooroolbark,yarra ranges,15,1
+mordialloc,kingston,18,1
+moreland city,moreland,1,1
+mount cottrell,wyndham,2,1
+mount dandenong,yarra ranges,28,1
+mount eliza,frankston,1,1
+mount evelyn,yarra ranges,7,1
+mount toolebewong,yarra ranges,3,1
+mount waverley,monash,71,1
+mt dandenong,yarra ranges,15,1
+mt waverley,monash,4,1
+mulgrave,monash,22,1
+murrumbeena,glen eira,48,1
+nar nar goon north,cardinia,2,1
+narbethong,yarra ranges,1,1
+narre warren,casey,18,1
+narre warren north,casey,6,1
+narre warren south,casey,16,1
+newport,hobsons bay,44,1
+niddrie,moonee valley,5,1
+noble park,greater dandenong,27,1
+noble park north,greater dandenong,5,1
+north fitzroy,yarra,2,1
+north melbourne,melbourne,340,1
+"north melbourne, victoria, au",melbourne,1,1
+north warrandyte,nillumbik,6,1
+northcote,darebin,279,1
+northcote south,darebin,2,1
+"northcote, victoria, au",darebin,1,1
+notting hill,monash,39,1
+nunawading,whitehorse,9,1
+oak park,moreland,14,1
+oaklands junction,hume,6,1
+oakleigh,monash,16,1
+oakleigh east,monash,28,1
+oakleigh south,monash,16,1
+officer,cardinia,13,1
+officer south,cardinia,1,1
+olinda,yarra ranges,87,1
+ormond,glen eira,25,1
+pakenham,cardinia,21,1
+pakenham upper,cardinia,1,1
+panton hill,nillumbik,5,1
+park orchards,manningham,8,1
+parkdale,kingston,33,1
+parkville,melbourne,86,1
+pascoe vale,moreland,24,1
+pascoe vale south,moreland,17,1
+patterson lakes,kingston,14,1
+pearcedale,casey,1,1
+plumpton,melton,4,1
+point cook,wyndham,191,1
+port melbourne,port phillip,256,1
+port phillip city,port phillip,2,1
+powelltown,yarra ranges,1,1
+praharan,stonnington,1,1
+prahran,stonnington,261,1
+prahran / toorak,stonnington,1,1
+preston,darebin,142,1
+preston west,darebin,1,1
+princes hill,yarra,23,1
+research,nillumbik,5,1
+reservoir,darebin,69,1
+richmond,yarra,570,1
+"richmond, victoria, au",yarra,1,1
+ringwood,maroondah,44,1
+ringwood east,maroondah,13,1
+ringwood north,maroondah,7,1
+ripponlea,port phillip,25,1
+ripponlea (east st kilda),port phillip,1,1
+rockbank,melton,2,1
+rosanna,banyule,13,1
+rowville,knox,40,1
+roxburgh park,hume,6,1
+saint albans,brimbank,11,1
+saint andrews,nillumbik,1,1
+saint helena,banyule,1,1
+saint kilda,port phillip,802,1
+saint kilda beach,port phillip,1,1
+saint kilda east,port phillip,139,1
+saint kilda west,port phillip,90,1
+"saint kilda, victoria, au",port phillip,1,1
+sandhurst,frankston,8,1
+sandringham,bayside,50,1
+sassafras,yarra ranges,25,1
+scoresby,knox,11,1
+seabrook,hobsons bay,5,1
+seaford,frankston,39,1
+seaholme,hobsons bay,3,1
+seddon,maribyrnong,36,1
+selby,yarra ranges,4,1
+seville,yarra ranges,8,1
+seville east,yarra ranges,2,1
+sherbrooke,yarra ranges,6,1
+silvan,yarra ranges,2,1
+smiths gully,nillumbik,5,1
+somerton vic 3062,hume,1,1
+south kingsville,hobsons bay,11,1
+south melbourne,port phillip,278,1
+"south melbourne, melbourne",port phillip,1,1
+south morang,whittlesea,11,1
+south wharf,melbourne,8,1
+south yarra,stonnington,790,1
+south yarra vic 3141,stonnington,1,1
+"south yarra, victoria, au",stonnington,1,1
+southbank,melbourne,1190,1
+southbank melbourne,melbourne,1,1
+"southbank, melbourne",melbourne,1,1
+"southbank, victoria, au",melbourne,2,1
+spotswood,hobsons bay,12,1
+springvale,greater dandenong,20,1
+springvale south,greater dandenong,10,1
+st andrews,nillumbik,1,1
+st kilda,port phillip,199,1
+st kilda / elwood,port phillip,1,1
+st kilda east,port phillip,30,1
+st kilda west,port phillip,19,1
+st kilda west melbourne,port phillip,1,1
+st. andrews,nillumbik,1,1
+st. kilda,port phillip,4,1
+st. kilda west,port phillip,1,1
+st.kilda east,port phillip,1,1
+steels creek,yarra ranges,6,1
+stkilda east,glen eira,1,1
+strathewen,nillumbik,1,1
+strathmore,moonee valley,5,1
+strathtulloh,melton,3,1
+strthtulloch,melton,1,1
+sunbury,hume,24,1
+sunshine,brimbank,25,1
+sunshine north,brimbank,8,1
+sunshine west,brimbank,8,1
+surrey hills,whitehorse,22,1
+"surrey hills, victoria, au",boroondara,1,1
+sydenham,brimbank,3,1
+tarneit,wyndham,43,1
+tarrawarra,yarra ranges,5,1
+taylors hill,melton,4,1
+tecoma,yarra ranges,7,1
+templestowe,manningham,23,1
+templestowe lower,manningham,17,1
+the basin,knox,7,1
+the patch,yarra ranges,16,1
+thomastown,whittlesea,12,1
+thornbury,darebin,113,1
+"thornbury, victoria, au",darebin,1,1
+tonimbuk,cardinia,4,1
+toolangi,yarra ranges,2,1
+toolern vale,melton,14,1
+tooradin,casey,1,1
+toorak,stonnington,116,1
+"toorak, melbourne.",stonnington,1,1
+travancore,moonee valley,36,1
+tremont,yarra ranges,1,1
+truganina,wyndham,45,1
+"truganina, victoria, au",wyndham,1,1
+tullamarine,hume,16,1
+upper ferntree gully,yarra ranges,2,1
+upwey,yarra ranges,15,1
+vermont,whitehorse,14,1
+vermont south,whitehorse,28,1
+vic,melbourne,4,1
+victoria,melbourne,7,1
+viewbank,banyule,8,1
+wandin east,yarra ranges,3,1
+wandin north,yarra ranges,7,1
+wantirna,knox,18,1
+wantirna south,knox,30,1
+wantirna south vic 3152,knox,1,1
+warburton,yarra ranges,70,1
+warneet,casey,4,1
+warrandyte,manningham,25,1
+warrandyte south,manningham,1,1
+warranwood,maroondah,3,1
+waterways,kingston,2,1
+watsonia,banyule,2,1
+watsonia north,banyule,1,1
+watsons creek,nillumbik,1,1
+wattle glen,nillumbik,1,1
+werribee,wyndham,56,1
+werribee south,wyndham,5,1
+wesburn,yarra ranges,1,1
+"wesburn,10minutes to warburton",yarra ranges,1,1
+west footscray,maribyrnong,38,1
+west melbourne,melbourne,263,1
+west melbourne - flagstaff,melbourne,1,1
+westmeadows,hume,20,1
+wheelers,kingston,1,1
+wheelers hill,monash,13,1
+wheelers hill vic 3150,monash,2,1
+whitehorse city,whitehorse,1,1
+whittlesea,whittlesea,2,1
+williams landing,wyndham,39,1
+williamstown,hobsons bay,74,1
+williamstown north,hobsons bay,1,1
+windsor,stonnington,169,1
+wollert,whittlesea,6,1
+wonga park,manningham,6,1
+woori yallock,yarra ranges,1,1
+wyndham city,wyndham,1,1
+wyndham vale,wyndham,15,1
+yarra glen,yarra ranges,18,1
+"yarra glen, victoria, au",yarra ranges,1,1
+yarra junction,yarra ranges,13,1
+yarra ranges shire,yarra ranges,1,1
+"yarra valley, yarra glen, healesville",yarra ranges,1,1
+yarraville,maribyrnong,82,1
+yellingbo,yarra ranges,3,1
+"yellingbo, yarra valley",yarra ranges,1,1
+yering,yarra ranges,2,1
+yuroke,hume,1,1
+墨尔本,manningham,3,1
+墨爾本 melbourne,melbourne,1,1
+芒特韦弗利区,monash,1,1
